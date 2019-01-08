@@ -13,7 +13,7 @@ Minimal configuration to host a Django project at Heroku
 * pip install django
 
 ## Create the django project
-* django-admin startproject myproject
+* django-admin startproject myproject .
 
 ## Creating the Git repository
 * git init 
